@@ -1,4 +1,4 @@
-emotions = {
+tylers_emotions = {
 "joy" => 1..3,
 "love" => 1..3,
 "sadness" => 1..3,
